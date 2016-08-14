@@ -16,8 +16,8 @@ permalink: /:year/:month/:day/:title/
 # other links
 twitter_username: 
 facebook_username: 
-github_username:  fychinesepjj
-email: fychinesepjj@126.com
+github_username:
+email: 
 weibo_username: 
 zhihu_username: 
 
@@ -33,7 +33,7 @@ disqus_shortname:
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: 685b9228c217fb33720f79ca32249f93
+baidu_tongji_id: 
 google_analytics_id: 
 
 # Build settings
